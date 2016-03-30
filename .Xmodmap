@@ -1,0 +1,4 @@
+keycode 105 = Prior NoSymbol Prior
+keycode 108 = Next NoSymbol Next
+keycode 112 = Control_R NoSymbol Control_R
+keycode 117 = ISO_Level3_Shift NoSymbol ISO_Level3_Shift
