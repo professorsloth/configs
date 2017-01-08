@@ -72,3 +72,6 @@ bar {
         tray_output primary
 }
 
+exec redshift -O 3500K
+exec setxkbmap se custom
+exec xmodmap ~/.Xmodmap

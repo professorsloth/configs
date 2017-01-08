@@ -11,7 +11,6 @@ if has("autocmd")
 endif
 
 " Unsorted
-colorscheme cyanotype
 set nocompatible
 
 " Editing related
