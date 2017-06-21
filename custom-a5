@@ -6,16 +6,16 @@ xkb_symbols "custom" {
 
 	key <LWIN> {[ Super_L                                                  ]};
 	key <RWIN> {[ Super_R                                                  ]};
-	key <AE01> {[ 1,          none,       guillemotleft,       none        ]};
-	key <AE02> {[ 2,          none,       guillemotright,      none        ]};
-	key <AE03> {[ 3,          none,       jcircumflex,         Jcircumflex ]};
-	key <AE04> {[ 4,          none,       ubreve,              none        ]};
-	key <AE05> {[ 5,          none,       none,                none        ]};
-	key <AE06> {[ 6,          none,       hcircumflex,         Hcircumflex ]};
-	key <AE07> {[ 7,          none,       gcircumflex,         Gcircumflex ]};
-	key <AE08> {[ 8,          none,       ccircumflex,         Ccircumflex ]};
-	key <AE09> {[ 9,          none,       none,                none        ]};
-	key <AE10> {[ 0,          none,       scircumflex,         Scircumflex ]};
+	key <AE01> {[ 1,          1,          guillemotleft,       none        ]};
+	key <AE02> {[ 2,          2,          guillemotright,      none        ]};
+	key <AE03> {[ 3,          3,          jcircumflex,         Jcircumflex ]};
+	key <AE04> {[ 4,          4,          ubreve,              Ubreve      ]};
+	key <AE05> {[ 5,          5,          none,                none        ]};
+	key <AE06> {[ 6,          6,          none,                none        ]};
+	key <AE07> {[ 7,          7,          gcircumflex,         Gcircumflex ]};
+	key <AE08> {[ 8,          8,          ccircumflex,         Ccircumflex ]};
+	key <AE09> {[ 9,          9,          hcircumflex,         Hcircumflex ]};
+	key <AE10> {[ 0,          0,          scircumflex,         Scircumflex ]};
 	key <AE11> {[ plus,       none,       none,                none        ]};
 	key <AD01> {[ aring,      Aring,      braceleft,           none        ]};
 	key <AD02> {[ adiaeresis, Adiaeresis, braceright,          none        ]};
