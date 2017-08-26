@@ -1,3 +1,4 @@
+! This configuration is for the early model of the TypeMatrix EZ-Reach 2030 where the keys Page Up and Page Down are directly to the right of the space key.
 keycode 105 = Prior NoSymbol Prior
 keycode 108 = Next NoSymbol Next
 keycode 112 = Control_R NoSymbol Control_R
