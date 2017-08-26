@@ -10,7 +10,7 @@ xkb_symbols "custom" {
 	key <AE02> {[ 2,          2,          guillemotright,      none        ]};
 	key <AE03> {[ 3,          3,          jcircumflex,         Jcircumflex ]};
 	key <AE04> {[ 4,          4,          ubreve,              Ubreve      ]};
-	key <AE05> {[ 5,          5,          none,                none        ]};
+	key <AE05> {[ 5,          5,          0x100202f,           none        ]}; // 0x100202f matches codepoint NARROW NO-BREAK SPACE.
 	key <AE06> {[ 6,          6,          none,                none        ]};
 	key <AE07> {[ 7,          7,          gcircumflex,         Gcircumflex ]};
 	key <AE08> {[ 8,          8,          ccircumflex,         Ccircumflex ]};
